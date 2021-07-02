@@ -27,15 +27,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:5000/login",
-					"protocol": "http",
+					"raw": "https://simpleapi-test.herokuapp.com/login",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"simpleapi-test",
+						"herokuapp",
+						"com"
 					],
-					"port": "5000",
 					"path": [
 						"login"
 					]
@@ -65,15 +63,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:5000/login",
-					"protocol": "http",
+					"raw": "https://simpleapi-test.herokuapp.com/login",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"simpleapi-test",
+						"herokuapp",
+						"com"
 					],
-					"port": "5000",
 					"path": [
 						"login"
 					]
