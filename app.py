@@ -12,7 +12,7 @@ def login():
         username = req_json['username']
         password = req_json['password']
 
-        if password == 'rahasia':
+        if username == 'aku' and password == 'rahasia':
             return jsonify({"message": "success", "data": {"username": username, "hobby": "makan"}})
         else:
             return jsonify({"message": "fail"})
